@@ -1,2 +1,5 @@
 # DataMaid
-Simple Batch script to clean-up Windows based machines. Supports: IE, Edge, Chrome, Firefox and Opera.
+Simple Batch script to clean-up Windows based machines.
+
+Supports:
+Internet Explorer, Microsoft Edge, Google Chrome, Mozilla Firefox and Opera.
